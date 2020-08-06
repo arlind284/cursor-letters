@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins-SemiBold.ttf);
+}
+
+body {
+    overflow: hidden;
+    font-family: Poppins;
+}
